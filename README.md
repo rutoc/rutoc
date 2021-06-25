@@ -2,7 +2,7 @@
 ####  (or Ralph or RuToc or anything else).
 I'm a developer looking to learn more and more. I don't have a specific area, so don't be scared. You'll find it all here!
 
-Skills: JS, REACT, PYTHON, PHP, HTML, CSS, etc...
+Skills: JS, REACT, PYTHON, PHP, HTML, CSS, C, C++, etc...
 
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: @raphsiqueira (Instagram) 
